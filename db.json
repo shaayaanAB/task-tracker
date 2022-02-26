@@ -1,28 +1,10 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "Meeting at unicversity",
-      "day": "Jan 16, 2022 at 4:00pm",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Seeing Mamani",
-      "day": "Jan 20, 2022 at 9:00am",
-      "reminder": true
-    },
-    {
-      "text": "testtt",
-      "day": "tommorow",
-      "reminder": false,
+      "text": "First Day at work",
+      "day": "31 Feb 2022 - 9:00 am",
+      "reminder": true,
       "id": 4
-    },
-    {
-      "text": "jgbkj",
-      "day": "kjbbii",
-      "reminder": false,
-      "id": 5
     }
   ]
 }
